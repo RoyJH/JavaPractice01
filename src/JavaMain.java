@@ -6,7 +6,7 @@ public class JavaMain {
 		obj.setNumber(15);
 		int num = obj.getNumber();
 		
-		System.out.println(num);
+		System.out.println(num);	
 	}
 
 }
